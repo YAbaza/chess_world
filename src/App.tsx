@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import NavBar from "./components/NavBar";
-import Apps from './components/play'
+import Apps from './components/play';
 import RandomVRandom from "./components/RandomVRandom";
 function App() {
     return (

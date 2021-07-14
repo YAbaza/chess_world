@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./App.css";
 import Chessboard from "chessboardjsx";
 import { ChessInstance, ShortMove, } from "chess.js";
 

@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import NavBar from "./components/NavBar";
-import RandomVRandom from "./components/RandomVRandom";
 import App from "./App";
 
 ReactDOM.render(
